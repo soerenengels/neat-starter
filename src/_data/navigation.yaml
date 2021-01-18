@@ -1,10 +1,9 @@
----
 items:
-  - text: Menu One
+  - text: Suche
     url: "#"
-  - text: Menu Two
+  - text: Archiv
     url: "#"
-  - text: Menu Three
+  - text: Über uns
     url: "#"
-  - text: Blog
-    url: "/blog"
+  - text: Jetzt abonnieren
+    url: /blog
